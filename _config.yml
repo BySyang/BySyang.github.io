@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: suny的个人博客
+subtitle:  个人博客
+description: suny的个人博客
+keywords: suny的个人博客
+author: suny
+language: zh-cn
 timezone:
 
 # URL
@@ -29,7 +29,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -80,4 +80,26 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:BySyang/BySyang.github.io.git
-  branch: master   
+  branch: master  
+  message:  Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+
+
+# search
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
