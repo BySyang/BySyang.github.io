@@ -3,11 +3,11 @@
   
     
     <entry>
-      <title>two</title>
-      <link href="/2018/11/13/two/"/>
-      <url>/2018/11/13/two/</url>
+      <title>我的第一篇博客</title>
+      <link href="/2018/09/30/hello-world/"/>
+      <url>/2018/09/30/hello-world/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="你好，世界！！！"><a href="#你好，世界！！！" class="headerlink" title="你好，世界！！！"></a>你好，世界！！！</h1>]]></content>
       
       
       <categories>
@@ -16,34 +16,6 @@
           
       </categories>
       
-      
-    </entry>
-    
-    <entry>
-      <title>hello</title>
-      <link href="/2018/11/12/hello/"/>
-      <url>/2018/11/12/hello/</url>
-      
-        <content type="html"><![CDATA[<h1 id="6666"><a href="#6666" class="headerlink" title="6666"></a>6666</h1>]]></content>
-      
-      
-      
-    </entry>
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2018/09/30/hello-world/"/>
-      <url>/2018/09/30/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1 id="你好，世界！！！"><a href="#你好，世界！！！" class="headerlink" title="你好，世界！！！"></a>你好，世界！！！</h1>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-        </tags>
       
     </entry>
     
