@@ -7,7 +7,7 @@
       <link href="/2018/11/16/hello-hexo/"/>
       <url>/2018/11/16/hello-hexo/</url>
       
-        <content type="html"><![CDATA[<h2 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h2><p>最近公司项目进入维护阶段，比较闲。花费了一下午，搭建了这个博客。<br>今后，有什么经验总结的都放在这里了。做一个有规划的人！</p><hr><p>博客使用了<a href="https://hexo.io/zh-cn/" title="Optional title" target="_blank" rel="noopener">hexo</a>.<br>主题使用的<a href="https://github.com/blinkfox/hexo-theme-matery" title="Optional title" target="_blank" rel="noopener">hexo-theme-matery</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h2><p>最近公司项目进入维护阶段，比较闲。花费了一下午，搭建了这个博客。<br>今后，有什么经验总结的都放在这里了。做一个有规划的人！</p><hr><p>博客使用的<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>。<br>主题使用的<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a>）。</p>]]></content>
       
       
       <categories>
