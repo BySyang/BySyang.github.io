@@ -1,0 +1,6 @@
+/* Here is your custom css styles. */
+#live2d-widget>canvas{
+    left: 0 !important;
+    bottom: 0 !important;
+    border: none !important;
+}
