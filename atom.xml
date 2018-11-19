@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-16T09:49:27.951Z</updated>
+  <updated>2018-11-19T03:32:07.026Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,28 +17,18 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>markdown基本语法</title>
-    <link href="http://yoursite.com/2018/11/16/markdown-ji-ben-yu-fa/"/>
-    <id>http://yoursite.com/2018/11/16/markdown-ji-ben-yu-fa/</id>
-    <published>2018-11-16T08:20:44.000Z</published>
-    <updated>2018-11-16T09:49:27.951Z</updated>
+    <title>小程序开发框架集合</title>
+    <link href="http://yoursite.com/2018/11/19/xiao-cheng-xu-kai-fa-kuang-jia-ji-he/"/>
+    <id>http://yoursite.com/2018/11/19/xiao-cheng-xu-kai-fa-kuang-jia-ji-he/</id>
+    <published>2018-11-19T03:32:06.000Z</published>
+    <updated>2018-11-19T03:32:07.026Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Markdown基本语法&quot;&gt;&lt;a href=&quot;#Markdown基本语法&quot; class=&quot;headerlink&quot; title=&quot;Markdown基本语法&quot;&gt;&lt;/a&gt;Markdown基本语法&lt;/h1&gt;&lt;h1 id=&quot;README&quot;&gt;&lt;a
-        
-      
-    
     </summary>
     
-      <category term="markdown" scheme="http://yoursite.com/categories/markdown/"/>
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
-    
-      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
     
   </entry>
   
