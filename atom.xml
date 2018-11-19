@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-19T03:32:07.026Z</updated>
+  <updated>2018-11-19T03:47:12.083Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2018/11/19/test/"/>
+    <id>http://yoursite.com/2018/11/19/test/</id>
+    <published>2018-11-19T03:47:12.000Z</published>
+    <updated>2018-11-19T03:47:12.083Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>小程序开发框架集合</title>
     <link href="http://yoursite.com/2018/11/19/xiao-cheng-xu-kai-fa-kuang-jia-ji-he/"/>
     <id>http://yoursite.com/2018/11/19/xiao-cheng-xu-kai-fa-kuang-jia-ji-he/</id>
     <published>2018-11-19T03:32:06.000Z</published>
-    <updated>2018-11-19T03:32:07.026Z</updated>
+    <updated>2018-11-19T03:47:06.410Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec
+        
+      
     
     </summary>
     
@@ -37,7 +61,7 @@
     <link href="http://yoursite.com/2018/11/16/markdown-ji-ben-yu-fa/"/>
     <id>http://yoursite.com/2018/11/16/markdown-ji-ben-yu-fa/</id>
     <published>2018-11-16T08:20:44.000Z</published>
-    <updated>2018-11-19T03:42:17.857Z</updated>
+    <updated>2018-11-19T03:44:58.593Z</updated>
     
     <summary type="html">
     
